@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\epicrtadmin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\epicrtadmin\\.nuget\\packages"
+    ]
+  }
+}
